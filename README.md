@@ -1,6 +1,6 @@
 [
   {
-    "عکس": "https://parsitarh.com/wp-content/uploads/2017/09/iranserver-banner-design-468dar60.gif",
+    "عکس": "https://s4.uupload.ir/files/animation_4cxm.gif",
     "لینک": "https://github.com/"
   }
 ]
